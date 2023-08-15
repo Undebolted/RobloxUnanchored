@@ -1,3 +1,8 @@
+ --Adding a GUI soon prolly, and more features
+
+
+
+
 local UserInputService = game:GetService("UserInputService")
 local user = game:GetService('Players').LocalPlayer
 local model = game.Workspace:FindFirstChild(user.Name..'Aircraft')
